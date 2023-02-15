@@ -3,7 +3,6 @@
 - 🔭 Trabalho com web design há 8 anos
 - 🌱 Atualmente estudo Javascript e UX Design
 - 📫 Veja meu porfólio em: https://fernandamendes.myportfolio.com/
-- 😄 Pronomes: ela/dela
 
 <br>
 
